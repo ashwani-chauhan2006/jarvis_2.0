@@ -155,7 +155,7 @@ def send_message():
 
 root = tk.Tk()
 root.title("AI Assistant")
-root.geometry("1200x800")
+root.geometry("1200x1000")
 root.configure(bg="black")
 
 # Create main container frame
